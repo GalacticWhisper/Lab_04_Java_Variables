@@ -12,7 +12,7 @@ public class Main {
     int favoriteNumber = 8;
     int shoeSize = 11;
     int birthMonth = 10;
-    String fullName = 'Ian David Marr';
+    String fullName = "Ian David Marr";
 
         for (int i = 1; i <= 5; i++) {
 
